@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @planckestein0578 from Asia
+- 👀 I’m interested in Computers and science
+- 🌱 I’m currently learning Fortran
+- 💞️ I’m looking to collaborate on prety much arduino projects, i/o projects and science and computing.
+- 📫 How to reach me : Reach me through E-mail
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am very much interested in Phyiscs and I aspire to be a physicist.
