@@ -19,17 +19,11 @@
   <a href="https://www.youtube.com/channel/UCi4J5cz7oQmYzsqq-ZzRy-Q" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages Used:</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/53436240?s=40&v=4" alt="Fortran" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <!-- Embed an animated GitHub Stats card -->
+  <!-- Embed an animated GitHub Top Languages card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=planckestein0578&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planckestein0578&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </p>
 
@@ -41,8 +35,8 @@
 </p>
 
 <p align="center">
-  <!-- Embed an animated GitHub Top Languages card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planckestein0578&layout=compact&theme=dark" alt="Top Languages" />
+  <!-- Embed an animated GitHub activity in last year card -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=planckestein0578&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity" />
   </a>
 </p>
