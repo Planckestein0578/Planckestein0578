@@ -32,14 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planckestein0578&layout=compact&theme=dark" alt="Top Languages" />
   </a>
 </p>
-
-
-<p align="center">
-  <!-- Embed an animated GitHub Stats card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=planckestein0578&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
+>
 
 <p align="center">
   <!-- Embed an animated GitHub Streak Stats card -->
