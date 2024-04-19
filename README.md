@@ -42,7 +42,7 @@
 </p>
 <h3 align="center">Certificates:</h3>
 <p align="center">
-  <img src="file:///C:/Users/User/Desktop/certification_fortran.jpg" alt="Fortran Certificate" width="200" height="150"/>
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b390bbfe-aeda-424a-8be1-3def6df3e4b7.jpg?v=1713444897000" alt="Fortran Certificate" width="200" height="150"/>
 </p>
 
 
