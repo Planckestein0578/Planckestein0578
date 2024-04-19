@@ -40,4 +40,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=planckestein0578&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
+<h3 align="center">Certificates:</h3>
+<p align="center">
+  <img src="file:///C:/Users/User/Desktop/certification_fortran.jpg" alt="Fortran Certificate" width="200" height="150"/>
+</p>
+
 
