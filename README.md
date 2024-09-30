@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning: **Fortran**
 
-- 👨‍💻 Explore my projects at [planckestein0578.github.io](https://planckestein0578.github.io)
+- 👨‍💻 Explore my projects at [planckestein0578.github.io/bhaswan-portfolio](https://planckestein0578.github.io/bhaswan-portfolio/)
 
 - 📫 Reach me at: **planckestein0578@gmail.com**
 
